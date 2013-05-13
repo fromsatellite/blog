@@ -1,4 +1,5 @@
-blog
-====
+Franken Zeng's blog
 
-private blog 
+weibo: http://weibo.com/fpzeng
+
+E-mail: fpzeng@outlook.com
